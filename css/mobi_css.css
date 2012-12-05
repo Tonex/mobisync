@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-family:"Courier New", Courier, monospace;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+label
+{
+	font-family:san serif, "Times New Roman", Times, serif;
+	color:#696969;
+	margin:3px;
+	font-size:12px;
+}
+
+
+
+
+
+
+
+#page1{
+background-color:blue;
+
+}
+
+
+#slogan{
+color:green;
+}
+
+.ui-icon-signup {
+    background-image: url("/miliga/images/signup.png") !important;/*I added the !important, I found that this rule was being overwritten*/
+	}
+	
+
+	
